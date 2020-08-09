@@ -1,0 +1,5 @@
+export const SHOW_CODE = 'home/SHOW_CODE'
+export const HIDE_CODE = 'home/HIDE_CODE'
+export const GET_HOME_DATA = 'home/GET_HOME_DATA'
+export const ADD_NEW_LIST = 'home/ADD_NEW_LIST'
+export const SCROLL_SHOW = 'home/SCROLL_SHOW'
